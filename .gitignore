@@ -13,7 +13,6 @@ linux/
 macos/
 web/
 windows/
-test/
 
 # IntelliJ related
 *.iml
